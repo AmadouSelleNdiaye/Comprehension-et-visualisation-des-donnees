@@ -1,5 +1,5 @@
 # Data-Comprehension-and-Visualization
-
+The project serves as a practical application of fundamental data science concepts to real-world biomedical data, bridging theoretical knowledge with hands-on analytical experience. Students will gain proficiency in both computational analysis and scientific communication through their findings.
 ---
 
 ## 📌 **Objective**  
